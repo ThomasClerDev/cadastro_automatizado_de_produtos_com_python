@@ -1,0 +1,1 @@
+# cadastro_automatizado_de_produtos_com_python
